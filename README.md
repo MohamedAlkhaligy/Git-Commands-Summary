@@ -65,7 +65,7 @@ ___
 | Command | Description |
 | ------- | ----------- |
 | git config -–global user.name “[name]” | Sets the author name to be used with your commits |
-| git config --global user.name "[email address]" | Sets the author email address to be used with your commits |
+| git config --global user.email "[email address]" | Sets the author email address to be used with your commits |
 | git config --global -e | Opens an editor to modify the config file |
 | git config --global --list | Lists all variables set in config file, along with their values. |
 | git config --global alias.[user defined alias] "[command]" | Creates custom alias |
